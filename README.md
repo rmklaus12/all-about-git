@@ -9,7 +9,7 @@ The All About Git repo was created just for this workshop and will continue as a
 **What does this project entail?**
 
 -   Overview of Git basics
--   Advanced commands on the basicz
+-   Advanced commands on the basics
 -   Learning to colaborate effectively
 
 **Configure your Environment**
