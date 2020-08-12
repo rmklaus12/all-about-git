@@ -15,7 +15,7 @@ The All About Git repo was created just for this workshop and will continue as a
 **Configure your Environment**
 -   Open up your terminal or command prompt
 -   Download git by following the directions here based on your operating system (Mac, Linux, PC). The easiest way is to use the installers: https://www.atlassian.com/git/tutorials/install-git
--   Make sure you have a text editor downloaded so you can interact with the code (Sublime, VS Code, Atom, Brackets, etc.). You can download Sublime here: https://www.sublimetext.com/3
+-   Make sure you have a text editor downloaded so you can interact with the code (Sublime, VS Code, Atom, Brackets, etc.). You can download Sublime here: https://www.sublimetext.com/3 or alternatively you can use Visual Studio code: https://code.visualstudio.com/download 
 
 **Contributor TODO**
 
