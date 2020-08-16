@@ -45,6 +45,7 @@ input {
     padding: 0
 }
 
+
 a img,
 :link img,
 :visited img {
@@ -105,6 +106,12 @@ h1 a:hover {
 .wrap {
     margin: 25px auto;
     width: 880px;
+}
+
+#octocat { 
+    width: 50px;
+    float: right;
+   
 }
 
 #options {
