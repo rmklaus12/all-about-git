@@ -9,7 +9,7 @@ The All About Git repo was created just for this workshop and will continue as a
 **What does this project entail?**
 
 -   Overview of Git basics
--   Advanced commands on the basicz
+-   Advanced commands on the basics
 -   Learning to colaborate effectively
 
 **Configure your Environment**
@@ -158,3 +158,5 @@ Use the GitHub website to submit a new pull request against upstream/master.
 -   git how-to: https://githowto.com/
 -   dangit git!: https://dangitgit.com/
 -   lorem ipsum generator: https://www.lipsum.com/
+
+Hi! Added as part of today's task.
