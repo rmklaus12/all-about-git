@@ -1,6 +1,6 @@
 # README
 
-**Welcome to Le Wagon's 'Collaborate with Git' Workshop!**
+**Welcome to my 'Collaborate with Git' Workshop!**
 
 This workshop will quickly cover the basics of git but then go a bit further to explore what it is like to work on a team and manage a project with collaboration.
 
